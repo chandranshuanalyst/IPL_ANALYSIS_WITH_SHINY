@@ -9,5 +9,6 @@ This is continuation of IPL Analysis project and in this we have deployed the R 
 * The address for the files in read.csv should be shortened one as Data/file_name.csv .
 * The libraries and their dependencies should be prespecified .
 * We used bslib to apply themes in R shiny.
+* The zip file contains ipl.csv .
 
 ## The link for the deployed file : https://chandranshujain03.shinyapps.io/Ipl_2/
